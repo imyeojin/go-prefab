@@ -1,0 +1,8 @@
+cards/
+default/
+src/
+*.h
+*.dylib
+*.png
+prefab
+.DS_Store
