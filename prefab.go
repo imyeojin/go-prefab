@@ -84,7 +84,7 @@ func Draw(name string, idolImage string, frameImage string, maskImage string, ha
 	dc.SetRGB(185/255, 185/255, 185/255)
 
 	textX := float64(50)
-	nameY := float64(445)
+	nameY := float64(436)
 
 	dc.DrawString(name, textX, nameY)
 
